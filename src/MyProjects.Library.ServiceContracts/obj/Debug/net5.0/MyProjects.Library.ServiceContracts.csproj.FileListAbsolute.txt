@@ -1,0 +1,17 @@
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\bin\Debug\net5.0\MyProjects.Library.ServiceContracts.deps.json
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\bin\Debug\net5.0\MyProjects.Library.ServiceContracts.dll
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\bin\Debug\net5.0\ref\MyProjects.Library.ServiceContracts.dll
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\bin\Debug\net5.0\MyProjects.Library.ServiceContracts.pdb
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\bin\Debug\net5.0\MyProjects.Library.Surrogates.dll
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\bin\Debug\net5.0\MyProjects.Library.Surrogates.pdb
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\obj\Debug\net5.0\MyProjects.Library.ServiceContracts.csprojAssemblyReference.cache
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\obj\Debug\net5.0\MyProjects.Library.ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\obj\Debug\net5.0\MyProjects.Library.ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\obj\Debug\net5.0\MyProjects.Library.ServiceContracts.AssemblyInfo.cs
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\obj\Debug\net5.0\MyProjects.Library.ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\obj\Debug\net5.0\MyProjects.Library.ServiceContracts.csproj.CopyComplete
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\obj\Debug\net5.0\MyProjects.Library.ServiceContracts.dll
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\obj\Debug\net5.0\ref\MyProjects.Library.ServiceContracts.dll
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\obj\Debug\net5.0\MyProjects.Library.ServiceContracts.pdb
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\bin\Debug\net5.0\MyProjects.Library.DataAccessLayer.dll
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.ServiceContracts\bin\Debug\net5.0\MyProjects.Library.DataAccessLayer.pdb

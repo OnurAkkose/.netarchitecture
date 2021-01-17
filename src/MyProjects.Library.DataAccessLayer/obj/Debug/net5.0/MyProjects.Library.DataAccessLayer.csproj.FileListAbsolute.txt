@@ -1,0 +1,12 @@
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.DataAccessLayer\bin\Debug\net5.0\MyProjects.Library.DataAccessLayer.deps.json
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.DataAccessLayer\bin\Debug\net5.0\MyProjects.Library.DataAccessLayer.dll
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.DataAccessLayer\bin\Debug\net5.0\ref\MyProjects.Library.DataAccessLayer.dll
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.DataAccessLayer\bin\Debug\net5.0\MyProjects.Library.DataAccessLayer.pdb
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.DataAccessLayer\obj\Debug\net5.0\MyProjects.Library.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.DataAccessLayer\obj\Debug\net5.0\MyProjects.Library.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.DataAccessLayer\obj\Debug\net5.0\MyProjects.Library.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.DataAccessLayer\obj\Debug\net5.0\MyProjects.Library.DataAccessLayer.AssemblyInfo.cs
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.DataAccessLayer\obj\Debug\net5.0\MyProjects.Library.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.DataAccessLayer\obj\Debug\net5.0\MyProjects.Library.DataAccessLayer.dll
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.DataAccessLayer\obj\Debug\net5.0\ref\MyProjects.Library.DataAccessLayer.dll
+C:\Users\onur2\Desktop\Gitlab Repos\MyProjects.Library\src\MyProjects.Library.DataAccessLayer\obj\Debug\net5.0\MyProjects.Library.DataAccessLayer.pdb
